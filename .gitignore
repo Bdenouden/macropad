@@ -1,0 +1,11 @@
+# ignore extra folders
+enclosure
+epaper
+ESP32-S2-MINI
+inkkeys
+
+
+firmware/.vscode
+firmware/*/.vscode
+firmware/*/bin
+

@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-S2-MINI-1
+F ${KIPRJMOD}/datasheet/esp32_s2_mini_1.pdf
+$ENDCMP
+#
+$CMP ESP32-S2-MINI-1U
+F ${KIPRJMOD}/datasheet/esp32_s2_mini_1.pdf
+$ENDCMP
+#
+#End Doc Library
